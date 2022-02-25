@@ -8,9 +8,6 @@
   <li> 내 위치를 불러올 수 있음</li>
 </ul>
 
-## ✔활용기술
-Tmap POI, GoogleMap
-
 ## ✔실행화면
 ![캡처1](https://user-images.githubusercontent.com/76811495/155700853-ddfad254-3ac2-44a1-bd3a-049ab9735f34.PNG)
 <br>
